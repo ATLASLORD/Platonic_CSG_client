@@ -1,20 +1,24 @@
 {
+	"identifier": "com.pa.areslord.platonic.client",
+	"display_name": "Platonic CSGs client",
+	"description": "Platonic Solids for map builders, custom maps included - client version",
 	"author": "ARES LORD",
+	"signature": "not yet implemented",
+    "download": "https://github.com/ATLASLORD/Platonic_CSG_client/archive/refs/heads/main.zip",
 	"build": "116400",
+    "priority": 100,
+	"icon": "https://imgur.com/x8C1LJM.png",
+	"forum": "https://github.com/ATLASLORD/Platonic_CSG",
+    "titansOnly": true,
+    "enabled": true,
 	"context": "client",
 	"date": "2023-01-19",
-	"display_name": "Platonic CSGs",
-	"description": "Platonic Solids for map builders, custom maps included",
-	"forum": "https://github.com/ATLASLORD/Platonic_CSG",
-	"identifier": "com.pa.areslord.platonic.client",
-	"signature": "not yet implemented",
-	"version": "1.0",
+	"version": "1.1",
 	"dependencies": [
 		"com.pa.conundrum.cShareSystems",
 		"com.pa.grandhomie.simplebiomes.server",
 		"com.pa.areslord.platonic.server"
 	],
-	"icon": "https://imgur.com/x8C1LJM.png",
 	"scenes": {
         "system_editor": [
 			"coui://ui/mods/com.pa.areslord.platonic.client/system_editor.js"
