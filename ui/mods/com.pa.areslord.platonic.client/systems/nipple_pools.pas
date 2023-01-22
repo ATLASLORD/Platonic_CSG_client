@@ -1,7 +1,7 @@
 {
     "name": "Nipple Pools",
     "description": "",
-    "creator": "",
+    "creator": "ARESLORD",
     "version": "",
     "planets": [
         {

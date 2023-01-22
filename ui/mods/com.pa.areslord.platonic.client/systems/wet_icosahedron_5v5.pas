@@ -1,7 +1,7 @@
 {
     "name": "Wet Icosahedron 5v5",
     "description": "",
-    "creator": "",
+    "creator": "ARESLORD",
     "version": "",
     "planets": [
         {

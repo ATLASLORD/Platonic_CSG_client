@@ -1,7 +1,7 @@
 {
     "name": "Hexagonal Virus 4v4",
     "description": "",
-    "creator": "",
+    "creator": "ARESLORD",
     "version": "",
     "planets": [
         {

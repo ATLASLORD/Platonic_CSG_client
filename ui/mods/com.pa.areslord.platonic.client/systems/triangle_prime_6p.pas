@@ -1,7 +1,7 @@
 {
     "name": "Triangle Prime 6P",
     "description": "",
-    "creator": "",
+    "creator": "ARESLORD",
     "version": "",
     "planets": [
         {
