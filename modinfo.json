@@ -11,7 +11,7 @@
 	"forum": "https://github.com/ATLASLORD/Platonic_CSG",
 	"context": "client",
 	"date": "2024-07-27",
-	"version": "1.2",
+	"version": "1.2.1",
 	"dependencies": [
 		"com.pa.conundrum.cShareSystems",
 		"com.pa.grandhomie.simplebiomes.server",
